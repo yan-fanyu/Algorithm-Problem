@@ -19,6 +19,18 @@
     <Filter Include="源文件\noj">
       <UniqueIdentifier>{be1644ce-ddc9-48b3-aefc-1aa6cc3959ca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\leetcode">
+      <UniqueIdentifier>{33f43e0d-9389-4666-b92c-295964033081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\leetcode\hot100">
+      <UniqueIdentifier>{f05e8d2b-80e9-45a1-88d4-d3769c0617e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\代码随想录">
+      <UniqueIdentifier>{56dbd86e-447d-4dff-8340-efe977133b93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\代码随想录\哈希">
+      <UniqueIdentifier>{1d3be43e-e67b-4fde-a3a6-72167722ad36}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main3849.cpp">
@@ -73,6 +85,54 @@
       <Filter>源文件\noj</Filter>
     </ClCompile>
     <ClCompile Include="main1012.cpp">
+      <Filter>源文件\noj</Filter>
+    </ClCompile>
+    <ClCompile Include="001.cpp">
+      <Filter>源文件\leetcode\hot100</Filter>
+    </ClCompile>
+    <ClCompile Include="002.cpp">
+      <Filter>源文件\leetcode\hot100</Filter>
+    </ClCompile>
+    <ClCompile Include="128.cpp">
+      <Filter>源文件\leetcode\hot100</Filter>
+    </ClCompile>
+    <ClCompile Include="560.cpp">
+      <Filter>源文件\leetcode\hot100</Filter>
+    </ClCompile>
+    <ClCompile Include="053.cpp">
+      <Filter>源文件\leetcode\hot100</Filter>
+    </ClCompile>
+    <ClCompile Include="main252.cpp">
+      <Filter>源文件\0307</Filter>
+    </ClCompile>
+    <ClCompile Include="main3675.cpp">
+      <Filter>源文件\0307</Filter>
+    </ClCompile>
+    <ClCompile Include="015.cpp">
+      <Filter>源文件\leetcode\hot100</Filter>
+    </ClCompile>
+    <ClCompile Include="main01.cpp">
+      <Filter>源文件\代码随想录\哈希</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main1005.cpp">
+      <Filter>源文件\noj</Filter>
+    </ClCompile>
+    <ClCompile Include="main1017.cpp">
+      <Filter>源文件\noj</Filter>
+    </ClCompile>
+    <ClCompile Include="main1017-2.cpp">
+      <Filter>源文件\noj</Filter>
+    </ClCompile>
+    <ClCompile Include="main1021.cpp">
+      <Filter>源文件\noj</Filter>
+    </ClCompile>
+    <ClCompile Include="main1019.cpp">
+      <Filter>源文件\noj</Filter>
+    </ClCompile>
+    <ClCompile Include="main1018.cpp">
       <Filter>源文件\noj</Filter>
     </ClCompile>
   </ItemGroup>
